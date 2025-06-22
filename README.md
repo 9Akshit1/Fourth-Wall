@@ -5,8 +5,8 @@ A compact, portable productivity companion inspired by ORV, featuring a touch OL
 
 | Component                        | Description                                | Estimated Cost (USD)   | Notes |
 |----------------------------------|--------------------------------------------|------------------------|-------|
-| Raspberry Pi Zero 2 W           | Main processor board                        | Already owned          | Compact, low-power, runs Python |
-| 2.8"–3.5" Touchscreen OLED/LCD  | Touch display for UI                        | $15–25                 | Capacitive preferred for finger/stylus input |
+| Raspberry Pi Zero 2W         | Main processor board                        | Already owned          | Compact, low-power, runs Python |
+| 2.8" TFT LCD with Touchscreen Breakout Board w/MicroSD Socket - ILI9341 | Touch display for UI                        | $15–25                 | Capacitive preferred for finger/stylus input |
 | Single Push Button              | Power or action input                       | <$1                    | Used for turning on/start |
 | Lithium Battery (1200–2000mAh)  | Rechargeable power source                   | $5–8                   | Choose based on space and usage time |
 | TP4056 Charging Module          | Battery charger with protection             | $1                     | Enables USB recharging |
