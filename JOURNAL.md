@@ -41,3 +41,10 @@ I finished the CAD! I also accounted for the total thickness/organization of the
 ![CAD Outer Case](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a0221b20aa5208b0c6ba0ea355ebf0d34c20692c_image.png)
 
 **Total Time Spent: 3.5h**
+
+# June 23rd
+I updated my schematic because in my CAD, I decided to remove the speaker and soudn amplifier, to replace it with a simple small buzzer instead. I also added/updated the links and prices for the different BOM items.
+
+![Updated Schematic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c83b3b8e53cb2654a2dbb24b4180dfc6e1f51738_schematic_j23.webp)
+
+**Total Time Spent: 0.5h**
