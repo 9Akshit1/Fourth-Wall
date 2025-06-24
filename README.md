@@ -32,4 +32,4 @@ The inspiration for this project came from my love of Omniscient Reader’s View
 | 3D printed case | Custom ORV-themed Fourth Wall design | ~$10–$20 | Varies by size, material, and print method | N/A |
 | Misc. wires, headers, etc.       | For connecting components                  | ~$3                    | Jumper wires, solder, etc. | N/A |
 
-**Total Estimated Cost:** ~$54.61 (excluding 3D printing materials and stylus)
+**Total Estimated Cost:** ~$54.61 CAD (excluding 3D printing materials and stylus) = ~$39.78 USD
