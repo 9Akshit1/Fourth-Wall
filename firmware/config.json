@@ -1,0 +1,30 @@
+{
+  "hardware": {
+    "power_button_pin": 3,
+    "buzzer_pin": 18,
+    "display_width": 320,
+    "display_height": 240
+  },
+  "timer_settings": {
+    "work_session_minutes": 25,
+    "short_break_minutes": 5,
+    "long_break_minutes": 15,
+    "sessions_before_long_break": 4
+  },
+  "display_settings": {
+    "brightness": 80,
+    "auto_dim_timeout": 30,
+    "theme": "orv_blue"
+  },
+  "audio_settings": {
+    "buzzer_enabled": true,
+    "buzzer_frequency": 1000,
+    "buzzer_duration": 1.0,
+    "volume": 70
+  },
+  "data_settings": {
+    "save_sessions": true,
+    "max_notes": 100,
+    "data_directory": "/home/pi/orv_study_data"
+  }
+}

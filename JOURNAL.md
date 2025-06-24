@@ -4,6 +4,7 @@ author: "Akshit Erukulla"
 description: "A pocket-sized study timer and task tracker with animated ORV visuals, housed in a Fourth Wall-inspired case."
 created_at: "2025-06-01"
 ---
+**TOTAL TIME SPENT: 15.5**
 
 # June 1st
 I started this project!!! I regularly use my notes app and wanted to make it look better. Moreover, I also keep on catching myself on my phone when I'm supposed to be studying, which is why i need a proper study timer. Hence, why I created a pocket-sized timer and notes-storage device. I made it ORV (Omniscient Reader's Viewpoint) themed, because ORV is my favorite novel!
@@ -11,14 +12,14 @@ Today, I just drafted two designs for the case, came up with the description for
 
 ![Rough Drawing of the Two Designs](https://hc-cdn.hel1.your-objectstorage.com/s/v3/9181b571f11602cd74f253d1f533068d97eaa044_idea_j1.jpg)
 
-**Total Time Spent: 1.5h**
+**Time Spent: 1.5h**
 
 # June 6th
 I worked on the schematic with some of the components that I will need. I probably will edit this in the future because I need to add other components or may have made some errors, so I need to double check. This took time since I had to watch new tutorials on LCD and understand the errors.
 
 ![Circuit Schematic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/da8c3562085eac4be7d1d95102abe3e9abf8a4df_schematic_j6.webp)
 
-**Total Time Spent: 1.5h**
+**Time Spent: 1.5h**
 
 # June 21st
 I started working on the CAD today I got a lot of the work done, mainly on the outer parts of the casing. This took a lot of time because I was trying to figure out how to make the stacked paper layers. I was using a reference image which is also below.
@@ -29,7 +30,7 @@ I started working on the CAD today I got a lot of the work done, mainly on the o
 
 ![CAD Side + Hollow](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c9e6ea53932a2013bf4ca5889579f6428e0190bf_cad_j21_pic2.webp)
 
-**Total Time Spent: 5h**
+**Time Spent: 5h**
 
 # June 22nd
 I finished the CAD! I also accounted for the total thickness/organization of the components that are supposed to go. That took some time as I had to find the thickness of all the ocmponents and how I would connect them physically. I also included the cutouts for the USB, the buzzer, and the switch. I also added the name "Fourth Wall" on the front. However, I'm worried that I won't be able to ppint it since there may be some floating parts.
@@ -40,11 +41,20 @@ I finished the CAD! I also accounted for the total thickness/organization of the
 
 ![CAD Outer Case](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a0221b20aa5208b0c6ba0ea355ebf0d34c20692c_image.png)
 
-**Total Time Spent: 3.5h**
+**Time Spent: 3.5h**
 
 # June 23rd
-I updated my schematic because in my CAD, I decided to remove the speaker and soudn amplifier, to replace it with a simple small buzzer instead. I also added/updated the links and prices for the different BOM items.
+I updated my schematic because in my CAD, I decided to remove the speaker and sound amplifier, to replace it with a simple small buzzer instead. I also added/updated the links and prices for the different BOM items.
 
 ![Updated Schematic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c83b3b8e53cb2654a2dbb24b4180dfc6e1f51738_schematic_j23.webp)
 
-**Total Time Spent: 0.5h**
+**Time Spent: 0.5h**
+
+# June 24th
+I finished my python code for the project. All I did was design the UI for the timer, the functionaltiy for setting and runnign the timers, and then also trackign & displaying the notes, and finally animating a chibi version of Kim Dokja using an image from pinterest by Lizette Chavez (source: https://ca.pinterest.com/pin/68747554976/)
+
+![UI design homepage timer](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c95ac0c1f2d2346190a0af4cc88128ee6bac3d9c_ui_j24_pic1.png)
+
+![UI design notes section](https://hc-cdn.hel1.your-objectstorage.com/s/v3/3780cc503102ee558c763de6a6a58dd19c18a7b8_ui_j24_pic2.png)
+
+**Time Spent: 3.5h**
