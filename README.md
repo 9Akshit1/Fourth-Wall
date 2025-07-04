@@ -11,6 +11,8 @@ The inspiration for this project came from my love of Omniscient Reader’s View
 
 # Final CAD
 
+![CAD Split Apart (How it Would be Printed)](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0c87b13657745cacd5d33931535e73eb879e2048_cad_split.png)
+
 ![CAD + Buzzer Cutout View](https://hc-cdn.hel1.your-objectstorage.com/s/v3/1b5227d01f38ad0809a6045429a6d2af57266a50_image.png)
 
 ![CAD Front Size + Cutouts](https://hc-cdn.hel1.your-objectstorage.com/s/v3/74f05d8d831dff8abd7a6004e3649d48dfab5f41_image.png)
