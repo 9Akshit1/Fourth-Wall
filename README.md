@@ -10,6 +10,7 @@ The inspiration for this project came from my love of Omniscient Reader’s View
 ![Final Schematic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c83b3b8e53cb2654a2dbb24b4180dfc6e1f51738_schematic_j23.webp)
 
 # Final CAD
+Please note that I can always just add supports before I 3D print, so we do not need to worry about that!
 
 ![CAD Split Apart (How it Would be Printed)](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0c87b13657745cacd5d33931535e73eb879e2048_cad_split.png)
 
