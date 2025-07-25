@@ -10,6 +10,10 @@ The inspiration for this project came from my love of Omniscient Reader’s View
 ![Final Schematic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c83b3b8e53cb2654a2dbb24b4180dfc6e1f51738_schematic_j23.webp)
 
 # Final CAD
+The CAS was printed at UnderCity, so it worked fine!!!
+
+![Printed CAD](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5a6e4f748e65f56222d6ea6a7a97f095b720bfce_gmail_images20250725_171334.png)
+
 Please note that I can always just add supports before I 3D print, so we do not need to worry about that!
 
 ![CAD Split Apart (How it Would be Printed)](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0c87b13657745cacd5d33931535e73eb879e2048_cad_split.png)
