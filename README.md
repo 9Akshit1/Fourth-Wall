@@ -10,7 +10,7 @@ The inspiration for this project came from my love of Omniscient Reader’s View
 ![Final Schematic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c83b3b8e53cb2654a2dbb24b4180dfc6e1f51738_schematic_j23.webp)
 
 # Final CAD
-The CAS was printed at UnderCity, so it worked fine!!!
+The CAD was printed at UnderCity, so it worked fine!!!
 
 ![Printed CAD](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5a6e4f748e65f56222d6ea6a7a97f095b720bfce_gmail_images20250725_171334.png)
 
